@@ -4,6 +4,6 @@ Welcome to my personal portfolio! This repository contains the source code for m
 
 ## Technologies Used
 
- **HTML**
- **CSS**
+ **HTML,**
+ **CSS,**
  **JavaScript**
